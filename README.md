@@ -306,6 +306,7 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.10416)]
 - Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems, *RAS 2025*. [[Paper](https://arxiv.org/pdf/2506.17775)] [[Code](https://github.com/Seba-san/UncertaintyMap)]
 - Massive Parallel Deep Reinforcement Learning for Active SLAM, *ICRA 2025*. [[Paper](https://arxiv.org/pdf/2603.25834)] 
+- RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty, *TRO 2026*. [[Paper](https://arxiv.org/pdf/2610.37111)] 
 
 ### 5.2 Active Loop Closure
 
