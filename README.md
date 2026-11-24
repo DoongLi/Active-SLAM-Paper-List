@@ -1,8 +1,7 @@
 # Active SLAM Paper List
 
-![Overview-from-pypolo](IMG/Overview-from-pypolo.png)
+![Overview-from-pypolo](IMG/intro.png)
 
-(This figure is referenced from [PyPolo](https://github.com/Weizhe-Chen/PyPolo).)
 
 The autonomous robotic system is a key objective pursued by many researchers in the field of robotics. In recent years, advancements in state estimators, motion planning algorithms, 3D representations, and even large language models (LLMs) have led to a surge of efforts aimed at achieving autonomy through Active SLAM. This approach has become a focal point for developing systems capable of navigating and interacting with complex environments independently.
 
